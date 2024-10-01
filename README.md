@@ -23,11 +23,14 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Uma-Mahesh118&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Uma-Mahesh118&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+![]()
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Random Dev Quote" />
 </p>
 
 
