@@ -1,10 +1,11 @@
-## Hi there 👋
-
 <!--
 **Uma-Mahesh118/Uma-Mahesh118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center">
+  <h1>Uma Mahesh Chimakurti</h1>
+</p>
 
-# 💫 hey There:
+# 💫 Hey there:
 - 🔭 I’m currently upskilling myself and preparing for upcoming opportunities.
 - 🌱 I’m currently learning backend technologies like Spring Boot and Express.
 - 👯 I’m looking to collaborate on open-source projects and backend development.
