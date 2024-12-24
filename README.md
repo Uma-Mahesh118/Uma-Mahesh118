@@ -4,11 +4,10 @@
 <h1 align="center">Hi 👋, I'm Uma Mahesh</h1>
 
 - 🔭 I’m currently upskilling myself and preparing for upcoming opportunities.
-- 🌱 I’m currently learning backend technologies like Spring Boot and Express.
-- 👯 I’m looking to collaborate on open-source projects and backend development.
+<!--- 🌱 I’m currently learning backend technologies like Spring Boot.
+- 👯 I’m looking to collaborate on open-source projects and backend development. -->
 - 🤔 I’m looking for help with making impactful open-source contributions and gaining more exposure in backend technologies.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uma-mahesh-chimakurti) or [email](mailto:umamahesh.chimakurti@gmail.com).
-- 😄 Pronouns: He/Him
 - ⚡ Hobbies: I’m a huge cricket fan and love playing chess in my free time.
 
 ## 🌐 Socials:
