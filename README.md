@@ -26,7 +26,7 @@
     </a>
 </p>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uma-Mahesh118&theme=dark" alt="Profile views">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uma-Mahesh118&theme=dark" alt="100 Profile views">
 </div>
 
 # 💻 Tech Stack:
