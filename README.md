@@ -17,28 +17,23 @@
 ## 🌐 Socials:
 <p align="center">
     <a href="https://linkedin.com/in/uma-mahesh-chimakurti">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/Uma-Mahesh/">
-        <img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode" alt="LeetCode">
+        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode">
     </a>
     <a href="https://github.com/Uma-Mahesh118">
-        <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="Github">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="Github">
     </a>
 </p>
 
 # 💻 Tech Stack:
+- **Programming Languages:** C++, Java, Python, C
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
 ### Web Development
