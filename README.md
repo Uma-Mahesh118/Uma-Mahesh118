@@ -45,38 +45,32 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-- **Frameworks/Libraries:** React, Bootstrap, Rails
+- **Frameworks/Libraries:** Spring Boot, React, Bootstrap, Rails
   
 <p align="center">
+    <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" />
 </p>
 
  
-- **Database:** MongoDB, MySQL
+- **Database:** PostgreSQL, MongoDB, MySQL
 
  <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Tools & Environment
-- **Cloud Services:** AWS, Docker, Kubernetes
+### Tools & Cloud
+- **Cloud Services:** AWS, Docker, Kubernetes, Postman
   
  <p align="center">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
-
-- **Version Control & IDE:** Gitub, Git, VS Code
-
-<p align="center">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/vs_code-%23F05033.svg?style=for-the-badge&logo=vs_code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/postman-%230A0FFF.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 
@@ -96,9 +90,6 @@
 <br/>
   
 # 📊 GitHub Stats:
-<p align = "center">
-  <img src="https://visitcount.itsvg.in/api?id=Uma-Mahesh118&icon=2&color=1)](https://visitcount.itsvg.in" alt="Profile Views">
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uma-Mahesh118&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> 
   <br/>
