@@ -1,20 +1,21 @@
 <!--
 **Uma-Mahesh118/Uma-Mahesh118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--- 🌱 I’m currently learning backend technologies like Spring Boot.
-- 👯 I’m looking to collaborate on open-source projects and backend development. -->
 <h1 align="center">Hi 👋, I'm Uma Mahesh</h1>
+<h3 align="center">Software Development Engineer | Backend Enthusiast | Problem Solver</h3>
 
-- 🔭 I’m currently upskilling myself and preparing for upcoming opportunities.
-- 🤔 I’m looking for help with making impactful open-source contributions and gaining more exposure in backend technologies.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uma-mahesh-chimakurti) or [email](mailto:umamahesh.chimakurti@gmail.com).
-- ⚡ Hobbies: I’m a huge cricket fan and love playing chess in my free time.
+
+- 🌱 Currently diving deeper into **Spring Boot, Distributed Systems, Cloud (AWS), and System Design**
+- 💡 Interests: Building scalable backend systems, API design, and performance optimizations
+- 🤝 Open to collaborating on **open-source projects around backend engineering and developer productivity**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uma-mahesh-chimakurti) | [Email](mailto:umamahesh.chimakurti@gmail.com)
+- ⚡ Hobbies: I’m a cricket lover 🏏 and enjoy playing chess ♟️
+
+---
+
 
 ## 🌐 Socials:
 <p align="center">
-    <a href="https://instagram.com/uma_mahesh_118">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
     <a href="https://linkedin.com/in/uma-mahesh-chimakurti">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -25,12 +26,13 @@
         <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="Github">
     </a>
 </p>
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uma-Mahesh118&theme=dark" alt="Profile views">
-</div>
 
 # 💻 Tech Stack:
-- **Programming Languages:** C, C++, Java, Python
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
